@@ -7,3 +7,8 @@ git push -u origin main
 
 git config --global user.name "your username"
 git config --global user.email "your email"
+
+git add .
+git commit -m "addeed global git congiguration"
+git push origin main
+
